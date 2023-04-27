@@ -4,12 +4,12 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBTSiFn91BlTGfV6wSXWGm4JKpRYuJpdJc",
-  authDomain: "signal-cl-293fb.firebaseapp.com",
-  projectId: "signal-cl-293fb",
-  storageBucket: "signal-cl-293fb.appspot.com",
-  messagingSenderId: "939160446098",
-  appId: "1:939160446098:web:9fd04e0c32057751bb724b"
+  apiKey: "YOUR API KEY",
+  authDomain: "AUTH DOMAIN",
+  projectId: "PROJECTID",
+  storageBucket: "STORAGE BUCKET",
+  messagingSenderId: "MESSAGING ID",
+  appId: "APP ID"
 };
 
   let app;
